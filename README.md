@@ -1,6 +1,12 @@
 # Spring Boot-Shiro-Vue
 提供一套基于SpringBoot-shiro-vue的权限管理思路.
 
+使用方式：
+1.把db.sql内容放mysql中执行。
+2.修改yml数据库为自己的配置，运行后端程序
+3.按照前端文件的说明安装nodejs及运行前端程序
+4.完成，现在就可以访问了。
+
 前后端都加以控制,做到按钮/接口级别的权限
 
 # DEMO
